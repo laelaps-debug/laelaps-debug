@@ -9,8 +9,9 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 ### RESONANCE Horizon Europe Project
 **Technical Lead – French Pilot** | [Project Website](https://www.resonance-project.eu/)
 - Coordinated 6-country R&D pilot integrating smart charging, PV, BESS, and demand response
-- Defined technical KPIs, validation protocols, and lifecycle monitoring frameworks
-- Authored EU deliverables including D5.5 (Data and Service Marketplaces)
+- Architected the French CEM implementation—smart EV charging optimisation algorithm
+- Designed the project-wide validation framework adopted by all 6 pilots
+- Authored EU deliverables including D4.2, D5.5, and D6.1
 
 **Public Deliverable:** 
 - [D5.5 Final Data and Service Marketplaces](https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/)
@@ -19,13 +20,23 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 
 ------
 
+## 🇪🇺 Policy Engagement
+
+### European Commission – Data Centre Energy Efficiency Rating Scheme
+**Submitted expert feedback** | [View Submission](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16035-Energy-efficiency-rating-scheme-for-data-centres-in-Europe/F33393681_en)
+
+Provided expert feedback to the European Commission on the proposed energy efficiency rating scheme for data centres in Europe—contributing to EU policy development on energy efficiency and sustainability.
+
+---
+
 ## 📄 What These Deliverables Show
 
 | Deliverable | My Contribution | What It Demonstrates |
 |-------------|-----------------|---------------------|
-| **D4.2 - CEM Catalogue** | Authored French pilot entries: Bovlabs CEM, EMS Dashboard, CPMS Dashboard, Mobile App | Technical depth in energy management systems, UI/UX, and optimisation |
-| **D6.1 - Validation Framework** | Designed project-wide validation framework; led French pilot validation | Ability to define success, measure impact, and coordinate multi-partner validation |
-| **D5.5 - Data & Service Marketplaces** | Contributed to marketplace development and deployment tools | Understanding of open platforms, service replication, and API-driven architectures |
+| **D4.2 - CEM Catalogue** | Authored French pilot entries | Technical depth in energy management systems, UI/UX, and optimisation |
+| **D6.1 - Validation Framework** | Designed project-wide framework | Ability to define success, measure impact, and coordinate validation |
+| **D5.5 - Data & Service Marketplaces** | Contributed to development | Understanding of open platforms and service replication |
+| **EC Policy Feedback** | Submitted expert feedback | Ability to engage with policymakers and shape regulation |
 
 ---
 
