@@ -48,7 +48,7 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 - **Research Engineer** – ASNR (French Nuclear Regulator, 2015 - 2019)
   - Developed safety models for nuclear reactor severe accident scenarios
 
-- **Ph.D.** – Mechanical Engineering, Aix-Marseille Université
+- **Ph.D.** – Applied Mathematics (Physics and Mechanics of Fluids), Aix-Marseille Université
 
 ---
 
