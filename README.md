@@ -56,7 +56,9 @@ Provided expert feedback to the European Commission on the proposed energy effic
 ## Stack
  
 **Energy & optimisation** — Python (pandas, NumPy, SciPy), time-series forecasting, smart charging algorithms, PV and BESS modelling, API integration and testing
+
 **Research computing** — OpenFOAM, ANSYS Fluent, COMSOL, MATLAB
+
 **Delivery** — Jira, Asana, ClickUp, Trello · Google Project Management Certificate (2026) · PMP in preparation
  
 ---
