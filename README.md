@@ -22,18 +22,6 @@ Ingénieur Docteur. I build energy software - optimisation algorithms, smart cha
 
 ---
 
-## 📄 What These Deliverables Show
-
-| Deliverable | My Contribution | What It Demonstrates |
-|-------------|-----------------|---------------------|
-| **D4.2 - CEM Catalogue** | Authored French pilot entries | Technical depth in energy management systems, UI/UX, and optimisation |
-| **D6.1 - Validation Framework** | Designed project-wide framework | Ability to define success, measure impact, and coordinate validation |
-| **D5.5 - Data & Service Marketplaces** | Contributed to development | Understanding of open platforms and service replication |
-| **D6.2 - Validation of Large-scale Replication** | **Deliverable Owner** — Created TOC, coordinated 15+ authors across 6 countries, led final submission | Ability to own and deliver complex, multi-partner EU deliverables at scale |
-| **EC Policy Feedback** | Submitted expert feedback | Ability to engage with policymakers and shape regulation |
-
----
-
 ## 🇪🇺 Policy Engagement
 
 ### European Commission – Data Centre Energy Efficiency Rating Scheme
