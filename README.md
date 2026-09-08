@@ -12,7 +12,7 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 - Defined technical KPIs, validation protocols, and lifecycle monitoring frameworks
 - Authored EU deliverables including D5.5 (Data and Service Marketplaces)
 
-**Public Deliverable:** [D5.5 Final Data and Service Marketplaces](https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/)
+**Public Deliverable:** [D5.5 Final Data and Service Marketplaces]([https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/](https://www.resonance-project.eu/tag/deliverable/))
 
 ---
 
@@ -22,17 +22,17 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 - Optimisation algorithms
 - Demand-side flexibility
 - Climate resilience modelling
-- Open-source energy tools (PyPSA, etc.)
+- Open-source tools (ex: OpenFOAM)
 
 ---
 
 ## 💼 Professional Background
 
-- **Technical Programme Lead** – Bovlabs SAS (2020–2026)
+- **Technical Programme Lead** – Bovlabs SAS (2020 - 2026)
   - Delivered 14 infrastructure projects across 13 countries
   - Managed 40+ partners including regulators, grid operators, and EPCs
 
-- **Research Engineer** – ASNR (French Nuclear Regulator, 2015–2019)
+- **Research Engineer** – ASNR (French Nuclear Regulator, 2015 - 2019)
   - Developed safety models for nuclear reactor severe accident scenarios
 
 - **Ph.D.** – Mechanical Engineering, Aix-Marseille Université
