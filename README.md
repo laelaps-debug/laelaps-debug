@@ -13,27 +13,19 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 - Authored EU deliverables including D5.5 (Data and Service Marketplaces)
 
 **Public Deliverable:** 
-- [D5.5 Final Data and Service Marketplaces]([https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/](https://www.resonance-project.eu/tag/deliverable/))
+- [D5.5 Final Data and Service Marketplaces](https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/)
 - [D6.1 First-phase Validation and Guidelines for Large-scale Replication](https://www.resonance-project.eu/d6-1/)
+- [D4.2 Final Customer Energy Manager Catalogue](https://www.resonance-project.eu/d4-2-final-customer-energy-manager-catalogue/) — *Authored French pilot CEM implementation, including the EV smart charging optimisation algorithm and end-user mobile application*
 
----
+------
 
-## 📄 Featured Deliverable: D6.1 Validation Framework
+## 📄 What These Deliverables Show
 
-**Role:** Task Lead – Validation Framework & French Pilot
-
-I designed the common validation framework adopted by all 6 country pilots, defining:
-- **Technical validation** – How do we know the technology works?
-- **Business validation** – Is there a viable business case?
-- **End-user validation** – Do people actually want to use it?
-
-**Key contributions:**
-- Defined project KPIs including renewable energy utilisation and carbon reduction targets
-- Led end-user validation using the User Experience Questionnaire (UEQ) methodology
-- Coordinated 15+ partners across 6 countries to deliver a 90+ page EU deliverable
-- Authored the French pilot section and contributed to replication guidelines
-
----
+| Deliverable | My Contribution | What It Demonstrates |
+|-------------|-----------------|---------------------|
+| **D4.2 - CEM Catalogue** | Authored French pilot entries: Bovlabs CEM, EMS Dashboard, CPMS Dashboard, Mobile App | Technical depth in energy management systems, UI/UX, and optimisation |
+| **D6.1 - Validation Framework** | Designed project-wide validation framework; led French pilot validation | Ability to define success, measure impact, and coordinate multi-partner validation |
+| **D5.5 - Data & Service Marketplaces** | Contributed to marketplace development and deployment tools | Understanding of open platforms, service replication, and API-driven architectures |
 
 ---
 
