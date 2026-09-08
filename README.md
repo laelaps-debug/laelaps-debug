@@ -17,6 +17,7 @@ Energy systems professional with 10+ years of experience in Python optimisation,
 - [D5.5 Final Data and Service Marketplaces](https://www.resonance-project.eu/d5-5-final-data-and-service-marketplaces-with-configuration-and-deployment-tools/)
 - [D6.1 First-phase Validation and Guidelines for Large-scale Replication](https://www.resonance-project.eu/d6-1/)
 - [D4.2 Final Customer Energy Manager Catalogue](https://www.resonance-project.eu/d4-2-final-customer-energy-manager-catalogue/) — *Authored French pilot CEM implementation, including the EV smart charging optimisation algorithm and end-user mobile application*
+- [D6.2 Validation of Large-scale Replication](https://www.resonance-project.eu/d6-2-validation-of-large-scale-replication/) — *Deliverable Owner; coordinated 15+ authors across 6 countries*
 
 ------
 
@@ -37,6 +38,18 @@ Provided expert feedback to the European Commission on the proposed energy effic
 | **D6.1 - Validation Framework** | Designed project-wide framework | Ability to define success, measure impact, and coordinate validation |
 | **D5.5 - Data & Service Marketplaces** | Contributed to development | Understanding of open platforms and service replication |
 | **EC Policy Feedback** | Submitted expert feedback | Ability to engage with policymakers and shape regulation |
+
+---
+
+## 🏆 Key Results from D6.2 (Led by Me)
+
+- **60-90% code reuse** across country pilots
+- **75% reduction** in development effort for replication
+- **37% higher flexibility** per site compared to literature benchmarks
+- **Up to 58% energy cost reduction** in some pilots
+- **38% cost savings** from EV charging optimisation
+- **2.65 metric tonnes CO₂ reduction** in French pilot
+- **250+ CEMs and 4,700+ users** deployed across Europe
 
 ---
 
