@@ -50,7 +50,7 @@ Provided expert feedback to the European Commission on the proposed energy effic
 - **Up to 58% energy cost reduction** in some pilots
 - **38% cost savings** from EV charging optimisation
 - **2.65 metric tonnes CO₂ reduction** in French pilot
-- **250+ CEMs and 4,700+ users** deployed across Europe
+- **2+ CEMs and 15+ users** deployed across Europe
 
 ---
 
